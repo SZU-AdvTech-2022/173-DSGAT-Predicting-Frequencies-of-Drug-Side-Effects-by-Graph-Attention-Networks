@@ -1,0 +1,10 @@
+@article{REPO-174,
+    author = "Xu, Xianyu and Yue, Ling and Li, Bingchun and Liu, Ying and Wang, Yuan and Zhang, Wenjuan and Wang, Lin",
+    journal = "Briefings in Bioinformatics",
+    number = "2",
+    pages = "bbab586",
+    publisher = "Oxford University Press",
+    title = "{DSGAT: Predicting Frequencies of Drug Side Effects by Graph Attention Networks}",
+    volume = "23",
+    year = "2022"
+}
